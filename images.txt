@@ -1,4 +1,4 @@
-redis:7.4.1
+#redis:7.4.1
 #nginx:1.27.2
 #mysql:8.4.3
 #nacos/nacos-server:v2.4.3
@@ -16,5 +16,6 @@ redis:7.4.1
 #mongo:4.4
 #docker.n8n.io/n8nio/n8n:latest
 #nacos/nacos-server:v3.0.1
+openjdk:8u102
 
 
